@@ -9,6 +9,7 @@ function Footer() {
         target="_blank"
         href="https://susannajarventausta.github.io/dist/index.html"
         className="link"
+	rel="noreferrer"
       >
         Pesonen
       </a>

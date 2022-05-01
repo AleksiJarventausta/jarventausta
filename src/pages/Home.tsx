@@ -5,7 +5,7 @@ import Footer from "../components/Footer";
 function Home() {
   return (
     <div className="container">
-      <p className="moi">We have a new car!</p>
+      <p className="moi">We have an old car!</p>
       <img src={car} alt="Our car" className="carPic" />
       <Footer />
     </div>
